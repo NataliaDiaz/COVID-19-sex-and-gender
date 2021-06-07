@@ -1,7 +1,7 @@
 # COVID-19-sex-and-gender
 
 
-This is a repository aggregating data from COVId-19 cases involving sex, gender and other variables
+This is a repository aggregating data from COVID-19 cases involving sex, gender and other variables
 
 The data is reproducing the analyses presented in this article.
 
@@ -10,7 +10,7 @@ Questioning causality on sex, gender and COVID-19, and identifying bias in large
 
 If you use the data please cite:
 
-
+```
 @article{DBLP:journals/corr/abs-2104-14492,
   author    = {Natalia D{\'{\i}}az Rodr{\'{\i}}guez and
                Ruta Binkyte{-}Sadauskiene and
@@ -32,4 +32,4 @@ If you use the data please cite:
   biburl    = {https://dblp.org/rec/journals/corr/abs-2104-14492.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
-
+```
